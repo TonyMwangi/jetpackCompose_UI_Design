@@ -1,5 +1,4 @@
-# jetpackCompose_UI_Design<br><br><br><br>
-
+# jetpackCompose_UI_Design<br><br>
 
 ## **Initial design without any scrolling**<br><br>
 
