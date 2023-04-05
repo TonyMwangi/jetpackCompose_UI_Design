@@ -1,6 +1,6 @@
 # jetpackCompose_UI_Design<br><br>
 
-## Initial design without any scrolling<br><br>
+## **Initial design without any scrolling**<br><br>
 
 
 ![Initial deign without any scrolling](jetpack_Compose_Screenshot1.png)<br><br>
